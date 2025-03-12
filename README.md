@@ -27,7 +27,11 @@ Interface amigável onde o usuário pode:
 📁 amigo-secreto/
 ├── 📄 index.html      --> Estrutura principal do projeto
 ├── 📄 style.css       --> Estilos para a interface
-└── 📄 app.js         --> Lógica do sorteio e manipulação do DOM
+├── 📄 app.js          --> Lógica do sorteio e manipulação do DOM
+└── 📁 assets/         --> Imagens utilizadas no projeto
+    ├── 📄 amigo-secreto.png    --> Imagem para ilustrar o sorteio
+    └── 📄 play_circle_outline.png --> Ícone para o botão de sorteio
+
 ```
 
 ## 📢 Sobre o Projeto
